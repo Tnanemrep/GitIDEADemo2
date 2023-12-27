@@ -20,6 +20,7 @@ public class Test {
         System.out.println(stack.pop());
         System.out.println("hello master conflict");
         System.out.println("hello hot-fix conflict");
+        System.out.println("web edit");
     }
 
 }
