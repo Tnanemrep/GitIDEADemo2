@@ -17,6 +17,7 @@ public class Test {
         stack.push(3);
         System.out.println(stack.pop());
         System.out.println("hello world!");
+        System.out.println(stack.pop());
     }
 
 }
