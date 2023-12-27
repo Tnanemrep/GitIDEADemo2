@@ -19,6 +19,7 @@ public class Test {
         System.out.println("hello world!");
         System.out.println(stack.pop());
         System.out.println("hello master conflict");
+        System.out.println("hello hot-fix conflict");
     }
 
 }
